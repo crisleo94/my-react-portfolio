@@ -1,5 +1,8 @@
 # Clever Programmer ReactJS Portfolio Template
 
+## Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8642f16e-a9b3-4f6e-aee7-1e828085f7d6/deploy-status)](https://app.netlify.com/sites/ecstatic-lamarr-31e8cd/deploys)
+
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
